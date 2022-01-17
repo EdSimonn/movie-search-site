@@ -1,0 +1,27 @@
+#find {
+  margin-top: 20%;
+}
+
+body {
+  background-color: rgb(139, 181, 187);
+}
+
+.card-title {
+  font-family: lato;
+}
+
+.card {
+  margin-left: 12.5%;
+}
+
+.card-img {
+  height: 25rem;
+}
+
+#top {
+  margin-left: 12.5%;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  font-family: sans-serif;
+  font-weight: 500;
+}
